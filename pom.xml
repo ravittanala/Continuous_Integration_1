@@ -73,8 +73,7 @@
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-war-plugin</artifactId>
   <configuration>
-    <webXml>src\main\webapp\WEB-INF\web.xml</webXml>
-    <webappDirectory>/opt/apache-tomcat-8.5.42/webapps/my-app-1.0-SNAPSHOT/</webappDirectory>        
+    <webXml>src\main\webapp\WEB-INF\web.xml</webXml>       
   </configuration>
 </plugin>
       </plugins>
