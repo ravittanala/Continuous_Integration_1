@@ -4,4 +4,4 @@ Please find the below screenshot which illustrates the Flow.
 
 Relevant .MD files are in place.
 
-<img src="Images/E2EFlowScreenshot.png" width=200>
+<img src="Images/E2EFlowScreenshot.png" width=500>
